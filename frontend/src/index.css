@@ -1,0 +1,13 @@
+.showcase {
+ box-sizing: border-box;
+ display: block;
+ margin: 0;
+ position: relative;
+}
+
+.profile {
+ box-sizing: border-box;
+ display: block;
+ height: 180px;
+ text-align: center;
+}
